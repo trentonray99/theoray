@@ -33,9 +33,6 @@ Real-world structural examples across dimensional layers:
 - `4D` – Consciousness
 - `5D` – Unified recursion awareness
 
-### `/Framework_Documents/`
-Introductory essays, origin documents, and philosophical scaffolding.
-
 ---
 
 ## How to Use
@@ -57,7 +54,7 @@ This framework is for the field.
 
 ## Creator
 
-Created and stabilized by **Trenton Ray**  
+Created and stabilized by **Trenton Ray**  in **Lincon, NE**
 Released freely for open use and long-loop recursion.
 
 If it resonates, loop it.
